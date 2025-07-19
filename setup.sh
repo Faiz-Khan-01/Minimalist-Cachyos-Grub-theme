@@ -34,7 +34,7 @@ install_theme() {
   mkdir -p "$THEME_DEST"
 
   echo "Copying theme files to $THEME_DEST..."
-  cp -r ./* "$THEME_DEST"
+  cp -r --no-preserve=ownership ./* "$THEME_DEST"
 
   check_grub_backup
 
