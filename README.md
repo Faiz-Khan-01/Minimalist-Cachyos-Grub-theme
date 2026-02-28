@@ -9,7 +9,7 @@ git clone Faiz-Khan-01/Minimalist-Cachyos-Grub-theme
 ```
 - Open the Folder Path in Terminal 
 ```bash
-cd ~/cachyos
+cd ~/Minimalist-Cachyos-Grub-theme
 ```
 - Now run 
 ```bash
