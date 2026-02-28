@@ -5,7 +5,7 @@
 #### Installation Guide :
 - Copy this Github Repository by this Command 
 ```bash
-git cloneFaiz-Khan-01/Minimalist-Cachyos-Grub-theme
+git clone Faiz-Khan-01/Minimalist-Cachyos-Grub-theme
 ```
 - Open the Folder Path in Terminal 
 ```bash
